@@ -10,7 +10,7 @@
   "dependencies": {
     "aws-sdk": "^2.900.0",
     "axios": "^0.21.1",
-    "next": "10.2.0",
+    "next": "12.1.0",
     "nextjs-cors": "^1.0.5",
     "react": "17.0.2",
     "react-dom": "17.0.2"
